@@ -17,7 +17,7 @@ Abre una terminal o ventana de comandos.
 Navega hasta el directorio donde descargaste el archivo JAR.
 Ejecuta el programa utilizando el siguiente comando:
 
-java -jar ConvertidorMonedas.jar
+java  -jar  ConversorDeMonedas.jar
 
 ## Contribuciones
 ¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes alguna sugerencia de mejora, no dudes en abrir un [issue](link to issues) o enviar un [pull request](link to pull requests).
